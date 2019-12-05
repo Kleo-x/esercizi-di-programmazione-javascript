@@ -16,4 +16,7 @@
   utilizza Math.ceil (arrotonda sempre all'intero superiore).
 
   http://www.imparareaprogrammare.it
-*/
+*/var cats = 44
+var cats in every row = 4
+var row = 11
+var remaining cats = 0/*
