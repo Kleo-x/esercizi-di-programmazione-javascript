@@ -15,5 +15,10 @@
   Per l'arrotondamento ti consiglio di non usare Math.round (arrotonda all'intero superiore solo da .5 in su),
   utilizza Math.ceil (arrotonda sempre all'intero superiore).
 
-  http://www.imparareaprogrammare.it
+http://www.imparareaprogrammare.it
 */
+http://www.imparareaprogrammare.it
+var cats = 44
+var cats in every row = 4
+var row = 11
+var remaining cats = 0/*
